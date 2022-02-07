@@ -1,0 +1,46 @@
+﻿body {
+    margin: 0;
+    background-color: #e2e0e2e6;
+}
+
+.Mynavbar {
+    background-color: #b200fce6;
+    width: 100%;
+    min-height: 54px;
+    border: blue 1px solid;
+}
+
+.main {
+    margin-top: 50px;
+    background: #fff;
+    border: 1px solid #CFCFCF;
+    border-radius: 9px;
+    padding: 50px;
+    padding-top: 25px;
+}
+
+.table {
+    width: 97%;
+    border: 1px solid #CFCFCF;
+    border-radius: 4px;
+    margin: 25px;
+    margin-top: 20px;
+    padding: 15px
+}
+
+.CreateStuDetail {
+    width: 108px;
+    background-color: #b200fce6;
+    padding: 3px 15px;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+    .CreateStuDetail:hover {
+        color: #000;
+        background-color: yellow;
+        border: black 1px solid;
+        text-decoration: none;
+        font-weight: 500;
+    }
